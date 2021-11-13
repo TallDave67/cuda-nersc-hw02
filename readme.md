@@ -14,4 +14,3 @@ Still the fastest.
 
 Stencil operations are well-suited to using shared memory, because threads must access a window of data that spans the data locations aligned with other threads in the block.
 
-![Description of Stencil Algorithm](./StencilWindow.drawio.png)
