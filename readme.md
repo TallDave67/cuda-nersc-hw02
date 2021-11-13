@@ -10,7 +10,7 @@ Will this shared memory version be faster than global version?  In fact no.  Pro
 
 Still the fastest.
 
-## **B. Stencil Operation**
+## **B. Stencil (sliding window) Operation**
 
 Stencil operations are well-suited to using shared memory, because threads must access a window of data that spans the data locations aligned with other threads in the block.
 
