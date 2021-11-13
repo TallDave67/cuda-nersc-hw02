@@ -1,0 +1,2 @@
+********** main_stencil_1d
+Success!

@@ -1,0 +1,10 @@
+********** main_matrix_mul_shared
+Init took 1.016000 seconds.  Begin compute
+gx: 512, gy: 512
+Done. Compute took 243.201000 seconds
+Success!
+********** main_matrix_mul_global
+Init took 0.823000 seconds.  Begin compute
+gx: 512, gy: 512
+Done. Compute took 233.008000 seconds
+Success!
